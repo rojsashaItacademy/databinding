@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "890230831819",
+    "firebase_url": "https://sambo-test-json-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sambo-test-json",
+    "storage_bucket": "sambo-test-json.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890230831819:android:4aa2e3879c3a82c84ab94e",
+        "android_client_info": {
+          "package_name": "com.trinitydigital.scoolsambo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890230831819-qm86kpembbpiturvdhdjbdp95d942cqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYsz_3ZGpXTqDXRpgitMfSUEDiJSdU1DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890230831819-qm86kpembbpiturvdhdjbdp95d942cqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890230831819:android:88826e76d6265fd44ab94e",
+        "android_client_info": {
+          "package_name": "ru.trinitydigital.databinfingvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890230831819-qm86kpembbpiturvdhdjbdp95d942cqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYsz_3ZGpXTqDXRpgitMfSUEDiJSdU1DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890230831819-qm86kpembbpiturvdhdjbdp95d942cqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
